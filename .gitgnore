@@ -1,0 +1,4 @@
+MINDlarge_dev/*
+MINDlarge_test/*
+*.txt
+prediction.txt.zip
