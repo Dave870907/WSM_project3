@@ -4,13 +4,10 @@
 ### File Trees
 ```
 .
-├── MINDlarge_dev
-├── MINDlarge_test
 ├── README.md
+├── Untitled.ipynb
 ├── data.ipynb
-├── prediction.txt
-├── prediction.txt.zip
-├── rep.txt
-├── rep2.txt
-└── test.txt
+├── data2.ipynb
+├── naml_MIND.ipynb
+└── nrms_MIND_Wei.ipynb
 ```
